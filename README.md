@@ -8,10 +8,6 @@ I'm a software engineer living in Nashville, TN. I migrated to the tech world fr
 
 ---
 
-- 📫 How to reach me: ...
-
----
-
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/MatthewSingler/MatthewSingler">
@@ -26,5 +22,3 @@ username=MatthewSingler&show_icons=true&line_height=27&count_private=true&title_
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewSingler&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![MatthewSingler GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSingler&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
--->
