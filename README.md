@@ -22,6 +22,6 @@ username=MatthewSingler&show_icons=true&line_height=27&count_private=true&title_
        </a>
 -->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewSingler&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewSingler&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![MatthewSingler GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSingler&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![MatthewSingler GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSingler&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
