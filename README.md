@@ -14,14 +14,15 @@ I'm a software engineer living in Nashville, TN. I migrated to the tech world fr
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/MatthewSingler">
+<a href="https://github.com/matthewsingler/matthewsingler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-lang/?
-username=MatthewSingler&title_color=ffffff&text_color=c9cacc&icon_color=icon_color=2bbc8a&bg_color=1d1f21"
+username=MatthewSingler&title_color=ffffff&text_color=c9cacc&icon_color=icon_color=2bbc8a&bg_color=1d1f21" />
        </a>
-<a href="https://github.com/MatthewSingler">
+<a href="https://github.com/matthewsingler/matthewsingler">
   <img align="center" src="https://github-readme-stats.vercel.app/api?
-username=MatthewSingler&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=icon_color=2bbc8a&bg_color=1d1f21"
+username=MatthewSingler&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=icon_color=2bbc8a&bg_color=1d1f21" />
        </a>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<MatthewSingler>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![MatthewSingler GitHub stats](https://github-readme-stats.vercel.app/api?username=<MatthewSingler>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
