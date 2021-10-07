@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-**MatthewSingler/MatthewSingler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm a software engineer living in Nashville, TN. I migrated to the tech world from the music industry world. I began my career in software development at The Nashville Software School in 2021 and threw myself into the tech sector head first.
+I'm a software engineer living in Nashville, TN. I migrated to the tech world from the music industry. I began my career in software development at The Nashville Software School in 2021 and threw myself into the tech sector head first.
 ---
 
 🧰 Toolbox
