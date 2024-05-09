@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer living in Nashville, TN. I migrated to the tech world from the music industry. I began my career in software development at Nashville Software School in 2021 and threw myself into the tech sector head first.
+I'm a QA engineer living in Nashville, TN. I migrated to the tech world from the music industry. I began learning software development at Nashville Software School in 2021 and got a job as a QA eningeer right out of the program. Now I continue to develop my test automation capabilities on my own while searching for new employment opportunities.
 ---
 
 🧰 Toolbox
